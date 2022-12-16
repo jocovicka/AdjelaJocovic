@@ -328,5 +328,38 @@ button:hover{
 
 @media screen and (min-width:300px) and (max-width:420px) {
     
-    
+       .nav{
+        height: 165px;
+        display: block;
+      }
+
+      .nav img{
+        display: block;
+        margin:0px auto;
+      }
+   
+      .nav ul{
+        padding:2px;
+        display:block;
+        margin-top:1px;
+        text-align:center;
+      }
+
+      .nav ul li a{
+        padding: 3px;
+        margin-top:2px;
+        display: block;
+      }
+
+      .Kontakt{
+        height: 1000px;
+      }
+
+      .kontaktdiv{
+        margin:250px 20%;
+      }
+
+      button{
+        width: 80%;
+      }
 }
