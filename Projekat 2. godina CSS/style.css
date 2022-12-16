@@ -356,7 +356,8 @@ button:hover{
       }
 
       .kontaktdiv{
-        margin:250px 20%;
+        margin:250px auto;
+        width:80%;
       }
 
       button{
